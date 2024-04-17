@@ -2,7 +2,7 @@ Chapter�2.�Getting Started
 
 Chapter�2.�Getting Started
 
-[Prev](ch01.html)�
+[Prev](Chapter1.md)�
 
 �
 
